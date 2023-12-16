@@ -1,5 +1,6 @@
-# About me
+# ABOUT ME
 
+My name is Benjamín Haverla, and I live in Martin, Slovakia. I believe that every step and decision in my life has influenced my personality and skills. I've decided to categorize my stories into chapters. This way, you can easily choose the field that interests you the most.
 
 # Chapters of my life
 - The Story of My Study
