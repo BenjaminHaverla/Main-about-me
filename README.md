@@ -12,6 +12,7 @@ If you would like to know more about our conversation, don't hesitate to click h
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg.png)
 
 # Marián Čekovský – motivational talk
+![Benjamín Haverla and Marián Čekovský](Images/marian_cekovsky.png)
 
 # BACK TO THE...
 ## [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
