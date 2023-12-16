@@ -1,8 +1,8 @@
 # About me
 
 
-
-- The Story of study
+# Chapters of my life
+- The Story of My Study
 - [The Summary of My Life Story](https://github.com/BenjaminHaverla/Summary-of-my-life-story.git)
 
 # Lee Arenberg (American actor) – beautiful conversation
