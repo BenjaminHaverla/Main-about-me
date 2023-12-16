@@ -3,7 +3,7 @@
 - [The Summary of My Life Story](https://github.com/BenjaminHaverla/Summary-of-my-life-story.git)
 
 # Lee Aremberg (American actor) – beautiful conversation
-When my short film ["THE LAST LETTER"](https://filmfreeway.com/projects/2082837) was nominated in the RED Movie Awards film festival, I had the opportunity to talk with the famous actor Lee Aremberg. He is best known for his role as Pintel, one of Captain Barbossa's crew, in the Pirates of the Caribbean franchise. He also had a recurring role as the dwarf Grumpy in the television series Once Upon a Time.
+When my short film ["THE LAST LETTER"](https://filmfreeway.com/projects/2082837) was nominated in the RED Movie Awards film festival, I had the opportunity to talk with the famous actor [Lee Aremberg](https://www.imdb.com/name/nm0034305/). He is best known for his role as Pintel, one of Captain Barbossa's crew, in the Pirates of the Caribbean franchise. He also had a recurring role as the dwarf Grumpy in the television series Once Upon a Time.
 
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg_talk.png)
 
