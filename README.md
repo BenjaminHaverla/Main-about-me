@@ -4,7 +4,7 @@
 
 # Lee Aremberg (American actor) – beautiful conversation
 
-# Marián Čekovský (Slovak musician, singer, songwriter, etc.) – motivational talk
+# Marián Čekovský – motivational talk
 
 # BACK TO THE...
 ## [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
