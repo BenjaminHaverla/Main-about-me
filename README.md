@@ -8,7 +8,11 @@ When my short film "THE LAST LETTER" was nominated in RED Movie Awards film fest
 If you would like to know more about our conversation, don't hesitate to click here.
 
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg_talk.png)
+
+If you would like to know more about our conversation, don't hesitate to click here.
+
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg.png)
+
 # Marián Čekovský – motivational talk
 
 # BACK TO THE...
