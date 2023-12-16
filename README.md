@@ -4,6 +4,7 @@
 
 # Lee Aremberg (American actor) – beautiful conversation
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg_talk.png)
+![Benjamín Haverla and Lee Aremberg](Images/Lee_pirates.webp)
 # Marián Čekovský – motivational talk
 
 # BACK TO THE...
