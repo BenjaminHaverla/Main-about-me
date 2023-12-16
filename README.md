@@ -3,6 +3,7 @@
 - [The Summary of My Life Story](https://github.com/BenjaminHaverla/Summary-of-my-life-story.git)
 
 # Lee Aremberg (American actor) – beautiful conversation
+If you would like to know more about our conversation, don't hesitate to click here.
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg_talk.png)
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg.png)
 # Marián Čekovský – motivational talk
