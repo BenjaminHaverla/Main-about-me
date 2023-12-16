@@ -16,6 +16,8 @@ When I created at the age of 16 music video about [**"Life with ISIC"**](https:/
 
 ![Benjamín Haverla and Marián Čekovský](Images/marian_cekovsky.png)
 
+If you would like to know more about our conversation, don't hesitate to click here.
+
 # BACK TO THE...
 ## [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
 # Contact me:
