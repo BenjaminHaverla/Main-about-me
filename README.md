@@ -12,6 +12,8 @@ If you would like to know more about our conversation, don't hesitate to click h
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg.png)
 
 # Marián Čekovský – motivational talk
+When I created at the age of 16 music video about [**"Life with ISIC"**](https://www.youtube.com/watch?v=07TXVp8rjss&t=9s), I had the opportunity to talk with the famous musician, singer, songwriter, comedian and presenter Marián Čekovský.
+
 ![Benjamín Haverla and Marián Čekovský](Images/marian_cekovsky.png)
 
 # BACK TO THE...
