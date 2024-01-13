@@ -21,7 +21,7 @@ When I created at the age of 16 music video about [**"Life with ISIC"**](https:/
 
 ![Benjamín Haverla and Marián Čekovský](Images/marian_cekovsky.png)
 
-If you would like to know more about our conversation, don't hesitate to [click here]().
+If you would like to know more about our conversation, don't hesitate to [click here](https://github.com/BenjaminHaverla/Lee-Aremberg.git).
 
 -------------------------------------------------------------
 
