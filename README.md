@@ -12,7 +12,7 @@ When my short film ["THE LAST LETTER"](https://filmfreeway.com/projects/2082837)
 
 ![Benjamín Haverla and Lee Arenberg](Images/lee_aremberg_talk.png)
 
-If you would like to know more about our conversation, don't hesitate to [click here]().
+If you would like to know more about our conversation, don't hesitate to [click here](https://github.com/BenjaminHaverla/Lee-Aremberg.git).
 
 ![Benjamín Haverla and Lee Aremberg](Images/lee_aremberg.png)
 
@@ -21,7 +21,7 @@ When I created at the age of 16 music video about [**"Life with ISIC"**](https:/
 
 ![Benjamín Haverla and Marián Čekovský](Images/marian_cekovsky.png)
 
-If you would like to know more about our conversation, don't hesitate to [click here](https://github.com/BenjaminHaverla/Lee-Aremberg.git).
+If you would like to know more about our conversation, don't hesitate to [click here]().
 
 -------------------------------------------------------------
 
